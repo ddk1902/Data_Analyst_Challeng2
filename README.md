@@ -1,5 +1,5 @@
 # Data_Analyst_Challeng2
-📌 Descripción
+Descripción
 Este proyecto forma parte de la iniciativa de Telecom X para comprender los factores que influyen en la evasión de clientes (churn). Utilizando técnicas de análisis de datos con R, se busca detectar patrones relevantes que permitan al equipo de ciencia de datos implementar modelos predictivos y estrategias de retención efectivas.
 
 ## Descripción del proyecto
