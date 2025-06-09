@@ -29,10 +29,15 @@ Este proyecto forma parte de la iniciativa de Telecom X para comprender los fact
 
 ## Estructura del proyecto
 
-├── TelecomX_Data.json       # Dataset principal (presente en GitHub)
+├── TelecomX_Data.json   # Dataset principal (presente en GitHub)
+
 ├── TelecomX_diccionario.md  # Diccionario de datos
+
 ├── analisis_churn.R         # Script principal en R
+
 ├── README.md                # Este archivo
+
+
 └── output/                  # Visualizaciones y reportes generados
 
 
